@@ -1,0 +1,55 @@
+h1{
+  font-family: Arial;
+  color: orange;
+}
+.tabs{
+  background: steelblue;
+  padding: 10px;
+  font-family: Arial;
+}
+body{
+  background: #cdf8ff ;
+/*  e8e8e8*/
+}
+a{
+  padding: 10px;
+  color: white;
+}
+div{
+  background: steelblue;
+  border-radius: 25px;
+  padding: 30px;
+  margin: 10px;
+  color: whitesmoke;
+  font-family: Arial;
+}
+img{
+  padding: 10px;
+}
+h4{
+  color: orange;
+}
+a:hover{
+  background: darkslateblue;
+}
+.blog, .links, .events, .new{
+  width: 45%;
+  height: 70%;
+}
+h1, h2{
+  margin: 10px;
+  font-family: Arial;
+}
+#Heading{
+  color: orange;
+}
+#puppy1, #puppy2, #puppy3{
+  margin: 5%;
+  width: 20%;
+}
+h4{
+  font-family: Arial;
+}
+section{
+  display: block;
+}
