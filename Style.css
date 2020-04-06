@@ -1,6 +1,6 @@
 h1{
   font-family: Arial;
-  color: orange;
+  color: deeppink;
 }
 .tabs{
   background: steelblue;
@@ -27,7 +27,7 @@ img{
   padding: 10px;
 }
 h4{
-  color: orange;
+  color: deeppink;
 }
 a:hover{
   background: darkslateblue;
@@ -41,7 +41,7 @@ h1, h2{
   font-family: Arial;
 }
 #Heading{
-  color: orange;
+  color: deeppink;
 }
 #puppy1, #puppy2, #puppy3{
   margin: 5%;
